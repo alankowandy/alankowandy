@@ -1,7 +1,7 @@
 Hi 👋 My name is Alan!
 ======================
 
-I'm a computer science student at Poznań University of Technology with a passion for technology and a keen interest in android applications development.
+I'm a computer science student at Poznań University of Technology with a passion for technology and a keen interest in mobile applications development.
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [alan.kowandy@outlook.com](mailto:alan.kowandy@outlook.com)
